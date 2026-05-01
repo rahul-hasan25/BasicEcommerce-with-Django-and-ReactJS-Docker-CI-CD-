@@ -4,11 +4,11 @@ export default function Footer() {
       <p className="flex flex-col items-center gap-1">
         Developed with <span className="text-red-500">❤️</span> by{" "}
         <a
-          href="https://www.linkedin.com/in/rathan-kumar492"
+          href="https://www.linkedin.com/in/rahul-haasan/"
           target="_blank"
           className="text-blue-600 hover:underline"
         >
-          Rathan Kumar
+          Rahul Hasan
         </a>
       </p>
 
@@ -17,12 +17,12 @@ export default function Footer() {
           href="mailto:developer.rathan@gmail.com"
           className="text-blue-600 hover:underline"
         >
-          developer.rathan@gmail.com{" "}
+          rahulhasan2026@gmail.com{" "}
         </a>
 
         <span className="flex items-center gap-1 text-gray-500 text-sm">
-          <i className="bi bi-geo-alt-fill" style={{ fontSize: "20px" }}></i>
-          Mumbai, India
+          <i className="bi bi-geo-alt-fill" style={{ fontSize: "20px" }}></i> 
+          Dhaka, Bangladesh
         </span>
       </div>
     </footer>
